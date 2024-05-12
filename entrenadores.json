@@ -1,29 +1,29 @@
 
 [
     {
-      "nombre": "Lionel Scaloni",
-      "nacionalidad": "Argentina",
-      "equipo_id": "611dbb88bba24d0b9ce937e1"
+      "nombre": "Dave Brailsford",
+      "equipo": "Ineos Grenadiers",
+      "nacionalidad": "Reino Unido"
     },
     {
-      "nombre": "Fernando Santos",
-      "nacionalidad": "Portugal",
-      "equipo_id": "611dbb88bba24d0b9ce937e2"
+      "nombre": "Matxin Joxean Fernández",
+      "equipo": "UAE Team Emirates",
+      "nacionalidad": "España"
     },
     {
-      "nombre": "Tite",
-      "nacionalidad": "Brasil",
-      "equipo_id": "611dbb88bba24d0b9ce937e3"
+      "nombre": "Richard Plugge",
+      "equipo": "Team Jumbo-Visma",
+      "nacionalidad": "Países Bajos"
     },
     {
-      "nombre": "Didier Deschamps",
-      "nacionalidad": "Francia",
-      "equipo_id": "611dbb88bba24d0b9ce937e4"
+      "nombre": "Patrick Lefevere",
+      "equipo": "Deceuninck-Quick-Step",
+      "nacionalidad": "Bélgica"
     },
     {
-      "nombre": "Héctor Cúper",
-      "nacionalidad": "Egipto",
-      "equipo_id": "611dbb88bba24d0b9ce937e5"
+      "nombre": "Rod Ellingworth",
+      "equipo": "Bahrain Victorious",
+      "nacionalidad": "Reino Unido"
     }
   ]
   

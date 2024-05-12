@@ -1,54 +1,34 @@
 
 [
     {
-      "equipo_id": "611dbb88bba24d0b9ce937d2",
-      "puntos": 6,
-      "partidos_jugados": 2,
-      "victorias": 2,
-      "empates": 0,
-      "derrotas": 0,
-      "goles_a_favor": 5,
-      "goles_en_contra": 1
+      "posicion": 1,
+      "nombre_ciclista": "Tadej Pogacar",
+      "equipo": "UAE Team Emirates",
+      "tiempo_total": "24:45:32"
     },
     {
-      "equipo_id": "611dbb88bba24d0b9ce937d3",
-      "puntos": 1,
-      "partidos_jugados": 2,
-      "victorias": 0,
-      "empates": 1,
-      "derrotas": 1,
-      "goles_a_favor": 2,
-      "goles_en_contra": 3
+      "posicion": 2,
+      "nombre_ciclista": "Primoz Roglic",
+      "equipo": "Team Jumbo-Visma",
+      "tiempo_total": "24:47:15"
     },
     {
-      "equipo_id": "611dbb88bba24d0b9ce937d4",
-      "puntos": 3,
-      "partidos_jugados": 1,
-      "victorias": 1,
-      "empates": 0,
-      "derrotas": 0,
-      "goles_a_favor": 3,
-      "goles_en_contra": 0
+      "posicion": 3,
+      "nombre_ciclista": "Richard Carapaz",
+      "equipo": "Ineos Grenadiers",
+      "tiempo_total": "24:48:05"
     },
     {
-      "equipo_id": "611dbb88bba24d0b9ce937d5",
-      "puntos": 1,
-      "partidos_jugados": 2,
-      "victorias": 0,
-      "empates": 1,
-      "derrotas": 1,
-      "goles_a_favor": 3,
-      "goles_en_contra": 3
+      "posicion": 4,
+      "nombre_ciclista": "Chris Froome",
+      "equipo": "Ineos Grenadiers",
+      "tiempo_total": "24:49:30"
     },
     {
-      "equipo_id": "611dbb88bba24d0b9ce937d6",
-      "puntos": 0,
-      "partidos_jugados": 2,
-      "victorias": 0,
-      "empates": 0,
-      "derrotas": 2,
-      "goles_a_favor": 2,
-      "goles_en_contra": 5
+      "posicion": 5,
+      "nombre_ciclista": "Egan Bernal",
+      "equipo": "Ineos Grenadiers",
+      "tiempo_total": "24:50:10"
     }
   ]
   

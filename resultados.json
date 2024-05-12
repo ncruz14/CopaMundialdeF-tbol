@@ -1,29 +1,53 @@
 
 [
     {
-      "encuentro_id": "611dbb88bba24d0b9ce937f6",
-      "goles_local": 2,
-      "goles_visitante": 1
+      "etapa": 1,
+      "ganador": "Chris Froome",
+      "equipo_ganador": "Ineos Grenadiers",
+      "tiempo_ganador": "00:30:00",
+      "segundo_lugar": "Tadej Pogacar",
+      "equipo_segundo_lugar": "UAE Team Emirates",
+      "tiempo_segundo_lugar": "00:30:45",
+      "tercer_lugar": "Primoz Roglic",
+      "equipo_tercer_lugar": "Team Jumbo-Visma",
+      "tiempo_tercer_lugar": "00:31:10"
     },
     {
-      "encuentro_id": "611dbb88bba24d0b9ce937f7",
-      "goles_local": 1,
-      "goles_visitante": 1
+      "etapa": 2,
+      "ganador": "Tadej Pogacar",
+      "equipo_ganador": "UAE Team Emirates",
+      "tiempo_ganador": "04:02:15",
+      "segundo_lugar": "Primoz Roglic",
+      "equipo_segundo_lugar": "Team Jumbo-Visma",
+      "tiempo_segundo_lugar": "04:02:30",
+      "tercer_lugar": "Richard Carapaz",
+      "equipo_tercer_lugar": "Ineos Grenadiers",
+      "tiempo_tercer_lugar": "04:03:00"
     },
     {
-      "encuentro_id": "611dbb88bba24d0b9ce937f8",
-      "goles_local": 3,
-      "goles_visitante": 0
+      "etapa": 3,
+      "ganador": "Richard Carapaz",
+      "equipo_ganador": "Ineos Grenadiers",
+      "tiempo_ganador": "05:15:45",
+      "segundo_lugar": "Tadej Pogacar",
+      "equipo_segundo_lugar": "UAE Team Emirates",
+      "tiempo_segundo_lugar": "05:16:10",
+      "tercer_lugar": "Primoz Roglic",
+      "equipo_tercer_lugar": "Team Jumbo-Visma",
+      "tiempo_tercer_lugar": "05:17:00"
     },
     {
-      "encuentro_id": "611dbb88bba24d0b9ce937f9",
-      "goles_local": 2,
-      "goles_visitante": 2
-    },
-    {
-      "encuentro_id": "611dbb88bba24d0b9ce937fa",
-      "goles_local": 1,
-      "goles_visitante": 2
+      "etapa": 4,
+      "ganador": "Egan Bernal",
+      "equipo_ganador": "Ineos Grenadiers",
+      "tiempo_ganador": "03:45:30",
+      "segundo_lugar": "Richard Carapaz",
+      "equipo_segundo_lugar": "Ineos Grenadiers",
+      "tiempo_segundo_lugar": "03:45:45",
+      "tercer_lugar": "Tadej Pogacar",
+      "equipo_tercer_lugar": "UAE Team Emirates",
+      "tiempo_tercer_lugar": "03:45:50"
     }
+   
   ]
   

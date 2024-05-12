@@ -1,49 +1,41 @@
 
+
 [
     {
-      "nombre": "Lionel Messi",
-      "edad": 34,
-      "nacionalidad": "Argentina",
-      "posicion": "Delantero",
-      "equipo_id": "611dbb88bba24d0b9ce937d2",
-      "partidos_jugados": 4,
-      "goles": 3
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido",
+      "equipo": "Ineos Grenadiers",
+      "edad": 36
     },
     {
-      "nombre": "Cristiano Ronaldo",
-      "edad": 36,
-      "nacionalidad": "Portugal",
-      "posicion": "Delantero",
-      "equipo_id": "611dbb88bba24d0b9ce937d3",
-      "partidos_jugados": 4,
-      "goles": 2
+      "nombre": "Tadej Pogacar",
+      "pais": "Eslovenia",
+      "equipo": "UAE Team Emirates",
+      "edad": 23
     },
     {
-      "nombre": "Neymar Jr",
-      "edad": 29,
-      "nacionalidad": "Brasil",
-      "posicion": "Delantero",
-      "equipo_id": "611dbb88bba24d0b9ce937d4",
-      "partidos_jugados": 3,
-      "goles": 1
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia",
+      "equipo": "Team Jumbo-Visma",
+      "edad": 31
     },
     {
-      "nombre": "Kylian Mbappé",
-      "edad": 23,
-      "nacionalidad": "Francia",
-      "posicion": "Delantero",
-      "equipo_id": "611dbb88bba24d0b9ce937d5",
-      "partidos_jugados": 4,
-      "goles": 4
+      "nombre": "Richard Carapaz",
+      "pais": "Ecuador",
+      "equipo": "Ineos Grenadiers",
+      "edad": 28
     },
     {
-      "nombre": "Mohamed Salah",
-      "edad": 29,
-      "nacionalidad": "Egipto",
-      "posicion": "Delantero",
-      "equipo_id": "611dbb88bba24d0b9ce937d6",
-      "partidos_jugados": 3,
-      "goles": 3
+      "nombre": "Geraint Thomas",
+      "pais": "Reino Unido",
+      "equipo": "Ineos Grenadiers",
+      "edad": 35
+    },
+    {
+      "nombre": "Egan Bernal",
+      "pais": "Colombia",
+      "equipo": "Ineos Grenadiers",
+      "edad": 25
     }
   ]
   

@@ -1,0 +1,44 @@
+
+[
+    {
+      "numero": 1,
+      "fecha": "2024-07-01",
+      "tipo": "Contrarreloj individual",
+      "distancia": 13.8,
+      "inicio": "Brest",
+      "fin": "Landerneau"
+    },
+    {
+      "numero": 2,
+      "fecha": "2024-07-02",
+      "tipo": "Llana",
+      "distancia": 183.5,
+      "inicio": "Perros-Guirec",
+      "fin": "Mûr-de-Bretagne Guerlédan"
+    },
+    {
+      "numero": 3,
+      "fecha": "2024-07-03",
+      "tipo": "Montaña",
+      "distancia": 168.8,
+      "inicio": "Lorient",
+      "fin": "Pontivy"
+    },
+    {
+      "numero": 4,
+      "fecha": "2024-07-04",
+      "tipo": "Llana",
+      "distancia": 150.4,
+      "inicio": "Redon",
+      "fin": "Fougères"
+    },
+    {
+      "numero": 5,
+      "fecha": "2024-07-05",
+      "tipo": "Contrarreloj por equipos",
+      "distancia": 27.2,
+      "inicio": "Change",
+      "fin": "Laval"
+    }
+  ]
+  

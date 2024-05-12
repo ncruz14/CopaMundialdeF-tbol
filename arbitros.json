@@ -1,23 +1,25 @@
 
+
 [
     {
-      "nombre": "Howard Webb",
-      "nacionalidad": "Inglaterra"
+      "nombre": "Philippe Marien",
+      "nacionalidad": "Francia"
     },
     {
-      "nombre": "Pierluigi Collina",
+      "nombre": "Javier Guillén",
+      "nacionalidad": "España"
+    },
+    {
+      "nombre": "Koen Beeckman",
+      "nacionalidad": "Bélgica"
+    },
+    {
+      "nombre": "Mauro Vegni",
       "nacionalidad": "Italia"
     },
     {
-      "nombre": "Néstor Pitana",
-      "nacionalidad": "Argentina"
-    },
-    {
-      "nombre": "Félix Brych",
-      "nacionalidad": "Alemania"
-    },
-    {
-      "nombre": "Ravshan Irmatov",
-      "nacionalidad": "Uzbekistán"
+      "nombre": "Christian Prudhomme",
+      "nacionalidad": "Francia"
     }
-]
+  ]
+  
