@@ -1,0 +1,29 @@
+
+[
+    {
+      "encuentro_id": "611dbb88bba24d0b9ce937f6",
+      "goles_local": 2,
+      "goles_visitante": 1
+    },
+    {
+      "encuentro_id": "611dbb88bba24d0b9ce937f7",
+      "goles_local": 1,
+      "goles_visitante": 1
+    },
+    {
+      "encuentro_id": "611dbb88bba24d0b9ce937f8",
+      "goles_local": 3,
+      "goles_visitante": 0
+    },
+    {
+      "encuentro_id": "611dbb88bba24d0b9ce937f9",
+      "goles_local": 2,
+      "goles_visitante": 2
+    },
+    {
+      "encuentro_id": "611dbb88bba24d0b9ce937fa",
+      "goles_local": 1,
+      "goles_visitante": 2
+    }
+  ]
+  

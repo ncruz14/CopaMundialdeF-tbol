@@ -1,0 +1,29 @@
+
+[
+    {
+      "nombre": "Lionel Scaloni",
+      "nacionalidad": "Argentina",
+      "equipo_id": "611dbb88bba24d0b9ce937e1"
+    },
+    {
+      "nombre": "Fernando Santos",
+      "nacionalidad": "Portugal",
+      "equipo_id": "611dbb88bba24d0b9ce937e2"
+    },
+    {
+      "nombre": "Tite",
+      "nacionalidad": "Brasil",
+      "equipo_id": "611dbb88bba24d0b9ce937e3"
+    },
+    {
+      "nombre": "Didier Deschamps",
+      "nacionalidad": "Francia",
+      "equipo_id": "611dbb88bba24d0b9ce937e4"
+    },
+    {
+      "nombre": "Héctor Cúper",
+      "nacionalidad": "Egipto",
+      "equipo_id": "611dbb88bba24d0b9ce937e5"
+    }
+  ]
+  

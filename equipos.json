@@ -1,0 +1,29 @@
+
+[
+    {
+      "nombre": "Argentina",
+      "entrenador_id": "611dbb88bba24d0b9ce937e1",
+      "jugadores": ["611dbb88bba24d0b9ce937d2", "611dbb88bba24d0b9ce937d7", "611dbb88bba24d0b9ce937d8", "611dbb88bba24d0b9ce937d9", "611dbb88bba24d0b9ce937da"]
+    },
+    {
+      "nombre": "Portugal",
+      "entrenador_id": "611dbb88bba24d0b9ce937e2",
+      "jugadores": ["611dbb88bba24d0b9ce937d3", "611dbb88bba24d0b9ce937db", "611dbb88bba24d0b9ce937dc", "611dbb88bba24d0b9ce937dd", "611dbb88bba24d0b9ce937de"]
+    },
+    {
+      "nombre": "Brasil",
+      "entrenador_id": "611dbb88bba24d0b9ce937e3",
+      "jugadores": ["611dbb88bba24d0b9ce937d4", "611dbb88bba24d0b9ce937df", "611dbb88bba24d0b9ce937e0", "611dbb88bba24d0b9ce937e5", "611dbb88bba24d0b9ce937e6"]
+    },
+    {
+      "nombre": "Francia",
+      "entrenador_id": "611dbb88bba24d0b9ce937e4",
+      "jugadores": ["611dbb88bba24d0b9ce937d5", "611dbb88bba24d0b9ce937e1", "611dbb88bba24d0b9ce937e2", "611dbb88bba24d0b9ce937e3", "611dbb88bba24d0b9ce937e4"]
+    },
+    {
+      "nombre": "Egipto",
+      "entrenador_id": "611dbb88bba24d0b9ce937e5",
+      "jugadores": ["611dbb88bba24d0b9ce937d6", "611dbb88bba24d0b9ce937e7", "611dbb88bba24d0b9ce937e8", "611dbb88bba24d0b9ce937e9", "611dbb88bba24d0b9ce937ea"]
+    }
+  ]
+  
